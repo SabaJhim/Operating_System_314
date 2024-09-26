@@ -1,1 +1,10 @@
-Adding new system calls to xv6-risc-V
+Assignment : Adding new system calls to xv6-risc-V
+
+->add the patch file according to the guideline.docx
+
+or 
+
+->Git clone the guideline.docx repo
+->replace the user, kernel and MAKEFILE
+
+(Bonus is not completed)
