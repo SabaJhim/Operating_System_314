@@ -1,0 +1,5 @@
+In this assignment
+-we simulated the basic locking mechanism of Inter process communication
+-we simulated reader-writer problem of inter process communication 
+
+Note- pthread is a header specially for linux/wsl. If you run it to windows it will give error.
